@@ -1,0 +1,8 @@
+multilingual-ifu
+========================
+可插拔模块（lgd-skeleton/1.0）。骨科器械 IFU 多语种对照语料（14 语种 = zh 母版 + 13 外语 × 7 段结构）。
+入口: scripts/ifu_index.py
+元数据: module.json
+总入口: medical-ai-toolkit
+关联: samd-ra-toolkit, medical-ai-toolkit
+许可: CC-BY-4.0 · 贡献者: @stevenzhao07 (MedXpert)

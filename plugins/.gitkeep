@@ -1,0 +1,2 @@
+# 扩展点（plugins/）
+新增语种：复制 `ortho-ifu.zh.md` 为 `ortho-ifu.<lang>.md` 并对齐 7 段；校验脚本自动纳入。

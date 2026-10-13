@@ -1,0 +1,149 @@
+{
+  "total_languages": 14,
+  "expected_sections_min": 7,
+  "languages": [
+    "ar",
+    "de",
+    "en",
+    "es",
+    "fr",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "pt",
+    "ru",
+    "th",
+    "vi",
+    "zh"
+  ],
+  "entries": [
+    {
+      "lang": "ar",
+      "file": "ortho-ifu.ar.md",
+      "bytes": 3533,
+      "words": 352,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "de",
+      "file": "ortho-ifu.de.md",
+      "bytes": 2519,
+      "words": 283,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "en",
+      "file": "ortho-ifu.en.md",
+      "bytes": 1028,
+      "words": 133,
+      "headings": 7,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "es",
+      "file": "ortho-ifu.es.md",
+      "bytes": 3198,
+      "words": 468,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "fr",
+      "file": "ortho-ifu.fr.md",
+      "bytes": 3259,
+      "words": 470,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "id",
+      "file": "ortho-ifu.id.md",
+      "bytes": 2870,
+      "words": 416,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "it",
+      "file": "ortho-ifu.it.md",
+      "bytes": 3145,
+      "words": 449,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "ja",
+      "file": "ortho-ifu.ja.md",
+      "bytes": 2681,
+      "words": 113,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "ko",
+      "file": "ortho-ifu.ko.md",
+      "bytes": 2950,
+      "words": 387,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "pt",
+      "file": "ortho-ifu.pt.md",
+      "bytes": 3158,
+      "words": 459,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "ru",
+      "file": "ortho-ifu.ru.md",
+      "bytes": 5201,
+      "words": 397,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "th",
+      "file": "ortho-ifu.th.md",
+      "bytes": 6380,
+      "words": 249,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "vi",
+      "file": "ortho-ifu.vi.md",
+      "bytes": 3389,
+      "words": 582,
+      "headings": 8,
+      "has_disclosure": true,
+      "sections_ok": true
+    },
+    {
+      "lang": "zh",
+      "file": "ortho-ifu.zh.md",
+      "bytes": 973,
+      "words": 39,
+      "headings": 7,
+      "has_disclosure": true,
+      "sections_ok": true
+    }
+  ],
+  "all_ok": true
+}
