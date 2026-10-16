@@ -24,7 +24,7 @@ MedXpert 把骨科植入物/器械使用说明（IFU）做成中→英/德/日/�
 - 14 个语言版本（zh 母版 + 13 外语 en/de/ja/ar/fr/es/it/pt/ru/ko/th/id/vi），均遵循 7 段对齐结构
 - CC BY 4.0 可署名再分发，对商业主体友好
 - 可插拔校验：`scripts/ifu_index.py` 自动清点 14 个语料（13 外语 + zh 母版）完整性、段数、字数并产出 `index.json`
-- 弱品牌披露：顶部 HTML 注释含 CC BY 4.0 + @stevenzhao07 关联披露
+- 署名披露：顶部 HTML 注释含 CC BY 4.0 + @stevenzhao07 关联披露
 
 **上游投稿目标**：OpenRegulatory/templates（多语种）
 
