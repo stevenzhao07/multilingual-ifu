@@ -1,6 +1,6 @@
 # multilingual-ifu
 
-> **Contributed by [@stevenzhao07](https://github.com/stevenzhao07) · Affiliation: MedXpert (medical-device RA & regulatory consultancy) · Pure technical input, no commercial promotion.**
+> **Contributed by [@stevenzhao07](https://github.com/stevenzhao07) · Independent researcher · Pure technical input, no commercial promotion.**
 
 MedXpert 把骨科植入物/器械使用说明（IFU）做成中→英/德/日/阿/法/西/意/葡/俄/韩/泰/印尼/越 13 外语对照的开源语料库，每段严格对齐 7 段结构（产品标识/预期用途/禁忌症/警告/清洁灭菌/追溯/不良事件）。13 外语覆盖是本模块的主要差异化方向（多数同类项目仅英文）。
 
@@ -33,6 +33,8 @@ MedXpert 把骨科植入物/器械使用说明（IFU）做成中→英/德/日/�
 语料覆盖髋/膝关节置换相关骨科植入物与器械的使用说明要点，定位为「对照模板」而非某具体产品的注册标签；落地具体产品前须按目标辖区（NMPA/FDA/EU MDR/PMDA）法规二次审校。
 
 ## 免责声明
+
+> 品牌状态限定：**MedXpert**（未申请实体注册、未申请商标注册，仅作来源标识）。本仓库由个人以独立研究者（Independent researcher）身份维护，不代表任何机构。
 
 本工具仅提供结构化模板与计算能力，**不构成法规建议、临床建议或产品合规结论**。具体产品的注册、临床评价、灭菌验证、风险分析、软件分级等决策，须由合资格人员依据目标辖区（NMPA / FDA / EU MDR / PMDA）最新法规文本作出；条款与限值以官方发布文本为准。使用本工具产生的一切后果由使用者自行承担。
 
