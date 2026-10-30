@@ -24,9 +24,12 @@ def scan(lang_dir: str) -> list[dict]:
     rows = []
     for path in sorted(glob.glob(os.path.join(lang_dir, "ortho-ifu.*.md"))):
         lang = os.path.basename(path).replace("ortho-ifu.", "").replace(".md", "")
-        with open(path, "r", encoding="utf-8") as f:
+        with open(path, "r", encoding="utf-8-sig") as f:
+            # utf-8-sig：去掉 BOM。zh/en 语料带 BOM 时，"^#" 正则会漏数 H1，
+            # 导致段数输出不一致（7 vs 8）——纯测量伪影，语料本身结构一致。
             text = f.read()
-        headings = re.findall(r"^#{1,3}\s+\S", text, re.M)
+        # 按 H2 计段：README 声明的「7 段对齐结构」指 7 个 H2 小节（H1 为文档标题）。
+        headings = re.findall(r"^##\s+\S", text, re.M)
         rows.append({
             "lang": lang,
             "file": os.path.basename(path),
